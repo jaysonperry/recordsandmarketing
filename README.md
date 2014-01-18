@@ -12,5 +12,7 @@ Things covered in the website:
 
 * Group user areas for secure exchange of information and resources
 
+* Intial development resource for contemplated projects to business ventures
+
 * ...
 
